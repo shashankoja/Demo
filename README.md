@@ -1,3 +1,4 @@
 # Demo
-This is my first repo
+This is my first Git repo.
+<br>
 Author - Shashank Ojha
